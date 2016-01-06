@@ -1,0 +1,28 @@
+name: Lets All Be Monsters
+favicon: null
+layout_spectrum: 0.6511864301282912
+typography_spectrum: 0.22505955072119832
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5545806426089257
+  lightness: 0.6368431921582669
+  saturation: 0.14692796696908772
+  rhythmicContrast: 0.9724560659378767
+purpose: []
